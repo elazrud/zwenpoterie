@@ -1,0 +1,10 @@
+# ==============================================================================
+# ZWEN POTERIE — Robots.txt
+# https://zwenpoterie.com
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://zwenpoterie.com/sitemap.xml
