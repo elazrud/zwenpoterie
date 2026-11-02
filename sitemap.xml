@@ -50,45 +50,45 @@
 
   <!-- ==================== SHOWROOM ==================== -->
   <url>
-    <loc>https://zwenpoterie.com/showroom.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom.html" />
+    <loc>https://zwenpoterie.com/showroom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/fr/showroom.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom.html" />
+    <loc>https://zwenpoterie.com/fr/showroom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/es/showroom.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom.html" />
+    <loc>https://zwenpoterie.com/es/showroom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/ar/showroom.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom.html" />
+    <loc>https://zwenpoterie.com/ar/showroom</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/showroom" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/showroom" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/showroom" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/showroom" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/showroom" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -96,45 +96,45 @@
 
   <!-- ==================== WORKSHOPS ==================== -->
   <url>
-    <loc>https://zwenpoterie.com/workshops.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops.html" />
+    <loc>https://zwenpoterie.com/workshops</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/fr/workshops.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops.html" />
+    <loc>https://zwenpoterie.com/fr/workshops</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/es/workshops.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops.html" />
+    <loc>https://zwenpoterie.com/es/workshops</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/ar/workshops.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops.html" />
+    <loc>https://zwenpoterie.com/ar/workshops</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/workshops" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/workshops" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/workshops" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/workshops" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/workshops" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -142,45 +142,45 @@
 
   <!-- ==================== OUR STORY ==================== -->
   <url>
-    <loc>https://zwenpoterie.com/our-story.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story.html" />
+    <loc>https://zwenpoterie.com/our-story</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/fr/our-story.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story.html" />
+    <loc>https://zwenpoterie.com/fr/our-story</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/es/our-story.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story.html" />
+    <loc>https://zwenpoterie.com/es/our-story</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://zwenpoterie.com/ar/our-story.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story.html" />
+    <loc>https://zwenpoterie.com/ar/our-story</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zwenpoterie.com/our-story" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zwenpoterie.com/fr/our-story" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://zwenpoterie.com/es/our-story" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zwenpoterie.com/ar/our-story" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zwenpoterie.com/our-story" />
     <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

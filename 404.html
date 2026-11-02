@@ -44,9 +44,9 @@
       <!-- Desktop Navigation Menu -->
       <nav class="nav-desktop" id="desktopNav" aria-label="Main Navigation">
         <a href="/" class="nav-link" data-i18n="navHome" data-route="index">Home</a>
-        <a href="/showroom.html" class="nav-link" data-i18n="navShowroom" data-route="showroom.html">Showroom</a>
-        <a href="/workshops.html" class="nav-link" data-i18n="navWorkshops" data-route="workshops.html">Workshops</a>
-        <a href="/our-story.html" class="nav-link" data-i18n="navStory" data-route="our-story.html">Our Story</a>
+        <a href="/showroom" class="nav-link" data-i18n="navShowroom" data-route="showroom">Showroom</a>
+        <a href="/workshops" class="nav-link" data-i18n="navWorkshops" data-route="workshops">Workshops</a>
+        <a href="/our-story" class="nav-link" data-i18n="navStory" data-route="our-story">Our Story</a>
       </nav>
 
       <!-- Desktop Header CTA Actions -->
@@ -61,7 +61,7 @@
           <a href="/ar/" class="lang-item" data-lang-link="ar" aria-label="النسخة العربية">AR</a>
         </div>
 
-        <a href="/workshops.html" class="btn btn-primary desktop-header-btn" data-i18n="bookBtn" data-route="workshops.html">
+        <a href="/workshops" class="btn btn-primary desktop-header-btn" data-i18n="bookBtn" data-route="workshops">
           Book Workshop
         </a>
 
@@ -92,12 +92,12 @@
       <span class="mono-tag" style="margin-bottom: 1.5rem;" data-i18n="menuTag">Menu Navigation</span>
       <nav class="mobile-nav-links">
         <a href="/" class="mobile-nav-link" data-i18n="mobHome" data-route="index">01. Home</a>
-        <a href="/showroom.html" class="mobile-nav-link" data-i18n="mobShowroom" data-route="showroom.html">02. Pottery Showroom</a>
-        <a href="/workshops.html" class="mobile-nav-link" data-i18n="mobWorkshops" data-route="workshops.html">03. Workshop &amp; Booking</a>
-        <a href="/our-story.html" class="mobile-nav-link" data-i18n="mobStory" data-route="our-story.html">04. Our Heritage Story</a>
+        <a href="/showroom" class="mobile-nav-link" data-i18n="mobShowroom" data-route="showroom">02. Pottery Showroom</a>
+        <a href="/workshops" class="mobile-nav-link" data-i18n="mobWorkshops" data-route="workshops">03. Workshop &amp; Booking</a>
+        <a href="/our-story" class="mobile-nav-link" data-i18n="mobStory" data-route="our-story">04. Our Heritage Story</a>
       </nav>
       <div class="mobile-menu-cta">
-        <a href="/workshops.html" class="btn btn-primary" data-route="workshops.html">
+        <a href="/workshops" class="btn btn-primary" data-route="workshops">
           <span data-i18n="bookBtn">Book Workshop</span>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
         </a>
@@ -146,8 +146,8 @@
           <span data-i18n="ctaHome">Return Home</span>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
         </a>
-        <a href="/showroom.html" class="btn btn-outline" data-i18n="ctaShowroom" data-route="showroom.html">Explore Showroom</a>
-        <a href="/workshops.html" class="btn btn-outline" data-i18n="ctaWorkshops" data-route="workshops.html">Book a Workshop</a>
+        <a href="/showroom" class="btn btn-outline" data-i18n="ctaShowroom" data-route="showroom">Explore Showroom</a>
+        <a href="/workshops" class="btn btn-outline" data-i18n="ctaWorkshops" data-route="workshops">Book a Workshop</a>
       </div>
     </div>
   </main>
@@ -170,9 +170,9 @@
           <h4 class="footer-heading" data-i18n="footerNavHeading">Navigate</h4>
           <ul class="footer-links">
             <li><a href="/" data-i18n="navHome" data-route="index">Home</a></li>
-            <li><a href="/showroom.html" data-i18n="footerShowroom" data-route="showroom.html">Pottery Showroom</a></li>
-            <li><a href="/workshops.html" data-i18n="footerWorkshops" data-route="workshops.html">Workshops &amp; Booking</a></li>
-            <li><a href="/our-story.html" data-i18n="footerStory" data-route="our-story.html">Our Heritage Story</a></li>
+            <li><a href="/showroom" data-i18n="footerShowroom" data-route="showroom">Pottery Showroom</a></li>
+            <li><a href="/workshops" data-i18n="footerWorkshops" data-route="workshops">Workshops &amp; Booking</a></li>
+            <li><a href="/our-story" data-i18n="footerStory" data-route="our-story">Our Heritage Story</a></li>
           </ul>
         </div>
 
@@ -241,7 +241,7 @@
       // Support previewing on https://<user>.github.io/<repo>/ before custom domain DNS is attached
       if (window.location.hostname.indexOf('.github.io') !== -1 && segments.length > 0) {
         var first = segments[0];
-        if (first !== 'fr' && first !== 'es' && first !== 'ar' && first.indexOf('.html') === -1) {
+        if (first !== 'fr' && first !== 'es' && first !== 'ar' && first !== 'showroom' && first !== 'workshops' && first !== 'our-story' && first.indexOf('.html') === -1) {
           base = '/' + first;
           segments = segments.slice(1);
         }

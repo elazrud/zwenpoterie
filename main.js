@@ -670,7 +670,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const isSubdirDoc = docLang === 'fr' || docLang === 'es' || docLang === 'ar';
 
   if (isSubdirDoc) {
-    const localizedPages = ['index.html', 'showroom.html', 'workshops.html', 'our-story.html'];
+    const localizedPages = ['showroom', 'workshops', 'our-story', 'index.html', 'showroom.html', 'workshops.html', 'our-story.html'];
 
     // Ensure all internal links stay safely within current language scope
     document.querySelectorAll('a[href]').forEach(link => {
@@ -683,16 +683,32 @@ document.addEventListener('DOMContentLoaded', () => {
       // Skip language switcher links (which deliberately point across language sections)
       if (link.classList.contains('lang-item')) return;
 
-      // If an absolute path was used without language prefix (e.g. "/showroom.html"), normalize it
-      if (rawHref.startsWith('/') && !rawHref.startsWith('/' + docLang + '/')) {
+      // If an absolute path was used without language prefix (e.g. "/showroom"), normalize it
+      if (rawHref.startsWith('/') && !rawHref.startsWith('/' + docLang + '/') && rawHref !== '/' + docLang) {
         const pathPart = rawHref.substring(1);
         const baseHref = pathPart.split('?')[0].split('#')[0];
         if (localizedPages.includes(baseHref)) {
+          const cleanBase = baseHref === 'index.html' ? '' : baseHref.replace(/\.html$/, '');
           const queryHash = rawHref.substring(baseHref.length + 1);
-          link.setAttribute('href', '/' + docLang + '/' + baseHref + queryHash);
+          link.setAttribute('href', '/' + docLang + '/' + cleanBase + queryHash);
         }
       }
     });
+  }
+
+  // Support previewing on https://<user>.github.io/<repo>/ before custom domain DNS is attached
+  if (window.location.hostname.endsWith('.github.io')) {
+    const segs = (window.location.pathname || '/').split('/').filter(Boolean);
+    const first = segs[0] || '';
+    if (first && first !== 'fr' && first !== 'es' && first !== 'ar' && first !== 'showroom' && first !== 'workshops' && first !== 'our-story' && !first.endsWith('.html')) {
+      const ghBase = '/' + first;
+      document.querySelectorAll('a[href^="/"]').forEach(link => {
+        const h = link.getAttribute('href');
+        if (h && !h.startsWith(ghBase + '/') && h !== ghBase) {
+          link.setAttribute('href', ghBase + h);
+        }
+      });
+    }
   }
 
   /* --------------------------------------------------------------------------
